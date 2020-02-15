@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2275de77682b8a448a6d6abb90c49d6e
+  - enabled: 1
+    path: Assets/Scenes/Algorithm Menu.unity
+    guid: fc10c076db72cbc429a07f24a99cbb76
+  - enabled: 1
+    path: Assets/Scenes/AStarPathfinding.unity
+    guid: da653268883613d4c90d7725d9bd9ea0
+  - enabled: 1
+    path: Assets/Scenes/TBAPathfinding.unity
+    guid: 9851546d9cc1246428cce6a71f7d245e
+  - enabled: 1
+    path: Assets/Scenes/RIBSPathfinding.unity
+    guid: 8ef3211aa46ba8444a3e73a40aef152e
